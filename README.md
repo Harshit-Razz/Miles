@@ -1,0 +1,2 @@
+## Miles
+The Online Car Rental System is a web-based application that allows users to rent cars from rental agencies over the internet. This project aims to provide a convenient and user-friendly platform for customers to rent cars online and for rental agencies to manage their inventory and bookings efficiently.
